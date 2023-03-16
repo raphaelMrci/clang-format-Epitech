@@ -5,6 +5,8 @@ AlignAfterOpenBracket: DontAlign
 AllowAllArgumentsOnNextLine: true
 AllowAllParametersOfDeclarationOnNextLine: true
 IndentWrappedFunctionNames: 'false'
+AccessModifierOffset: 0
+IndentAccessModifiers: true
 BinPackArguments: true
 BinPackParameters: true
 AlignOperands: false
